@@ -1,0 +1,1 @@
+# OpenCore_ASUS_PN62_i7-10510U
