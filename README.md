@@ -5,13 +5,14 @@ ASUS PN62 Desktop Mini PC
 
 ## Hardware Specs
 
-* CPU: Intel(R) Core(TM) i7-10510U CPU
+* CPU: Intel® Core™ i7-10510U Processor 1.8GHz (8M Cache, up to 4.9GHz)
 * GPU: Integrated Intel® HD Graphics 620 (2 DisplayPorts + 1 HDMI Port)
 * Product Name: ASUS PN62 Desktop Mini PC 65W
 * System BIOS: 1005
 * Memory: 32 GB DDR4-2666
-* LAN: Intel® I219M Gigabit Network Connection LOM
-* Audio: Realtek ALC255 Audio (1 front CITA port)
+* LAN: Intel® WGI219V Gigabit Network Connection LOM
+* Audio: Realtek® ALC3236-VB2 HD Audio CODEC (1 front CITA port)
+* Card Reader: 3-in-1 Card Reader
 
 ## BIOS Settings
 
