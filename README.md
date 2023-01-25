@@ -11,6 +11,7 @@ ASUS PN62 Desktop Mini PC
 * System BIOS: 1005
 * Memory: 32 GB DDR4-2666
 * LAN: Intel® WGI219V Gigabit Network Connection LOM
+* Intel(R) Wi-Fi 6 AX200 160MHz MVM Gen 2 (IWX)
 * Audio: Realtek® ALC3236-VB2 HD Audio CODEC (1 front CITA port)
 * Card Reader: 3-in-1 Card Reader
 
